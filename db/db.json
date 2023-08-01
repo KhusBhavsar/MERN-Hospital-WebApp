@@ -1,0 +1,193 @@
+{
+  "hospitals": [
+    {
+      "name": "Apollo Hospital",
+      "location": "No. 123, MG Road",
+      "city": "Bangalore",
+      "active_doctors": 50,
+      "overall_ranking": 4.8,
+      "doctor_facility_ranking": 4.7,
+      "other_details": "Multi-Specialty Hospital"
+    },
+    {
+      "name": "Fortis Hospital",
+      "location": "Plot No. 456, Jubilee Hills",
+      "city": "Hyderabad",
+      "active_doctors": 40,
+      "overall_ranking": 4.6,
+      "doctor_facility_ranking": 4.4,
+      "other_details": "Cardiac Care Center"
+    },
+    {
+      "name": "AIIMS Delhi",
+      "location": "Safdarjung Enclave",
+      "city": "New Delhi",
+      "active_doctors": 80,
+      "overall_ranking": 4.9,
+      "doctor_facility_ranking": 4.8,
+      "other_details": "Government Hospital"
+    },
+    {
+      "name": "Max Super Speciality Hospital",
+      "location": "Saket Institutional Area",
+      "city": "New Delhi",
+      "active_doctors": 55,
+      "overall_ranking": 4.7,
+      "doctor_facility_ranking": 4.6,
+      "other_details": "24/7 Emergency Services"
+    },
+    {
+      "name": "Medanta - The Medicity",
+      "location": "Sector 38, Gurugram",
+      "city": "Gurugram",
+      "active_doctors": 60,
+      "overall_ranking": 4.8,
+      "doctor_facility_ranking": 4.7,
+      "other_details": "Advanced Medical Technology"
+    },
+    {
+      "name": "Lilavati Hospital",
+      "location": "Bandra West",
+      "city": "Mumbai",
+      "active_doctors": 45,
+      "overall_ranking": 4.5,
+      "doctor_facility_ranking": 4.3,
+      "other_details": "Cancer Care Center"
+    },
+    {
+      "name": "Manipal Hospital",
+      "location": "Old Airport Road",
+      "city": "Bengaluru",
+      "active_doctors": 35,
+      "overall_ranking": 4.4,
+      "doctor_facility_ranking": 4.2,
+      "other_details": "Joint Replacement Center"
+    },
+    {
+      "name": "Columbia Asia Hospital",
+      "location": "Salt Lake",
+      "city": "Kolkata",
+      "active_doctors": 30,
+      "overall_ranking": 4.3,
+      "doctor_facility_ranking": 4.1,
+      "other_details": "International Patient Services"
+    },
+    {
+      "name": "Tata Memorial Hospital",
+      "location": "Parel",
+      "city": "Mumbai",
+      "active_doctors": 70,
+      "overall_ranking": 4.9,
+      "doctor_facility_ranking": 4.8,
+      "other_details": "National Cancer Institute"
+    },
+    {
+      "name": "Sri Ramachandra Medical Center",
+      "location": "Porur",
+      "city": "Chennai",
+      "active_doctors": 25,
+      "overall_ranking": 4.6,
+      "doctor_facility_ranking": 4.5,
+      "other_details": "Pediatric Care Center"
+    },
+    {
+      "name": "Narayana Multispeciality Hospital",
+      "location": "Whitefield",
+      "city": "Bangalore",
+      "active_doctors": 65,
+      "overall_ranking": 4.7,
+      "doctor_facility_ranking": 4.6,
+      "other_details": "Affordable Healthcare"
+    },
+    {
+      "name": "Sir Ganga Ram Hospital",
+      "location": "Rajinder Nagar",
+      "city": "New Delhi",
+      "active_doctors": 50,
+      "overall_ranking": 4.8,
+      "doctor_facility_ranking": 4.7,
+      "other_details": "Advanced Medical Research"
+    },
+    {
+      "name": "Kokilaben Dhirubhai Ambani Hospital",
+      "location": "Andheri West",
+      "city": "Mumbai",
+      "active_doctors": 55,
+      "overall_ranking": 4.8,
+      "doctor_facility_ranking": 4.7,
+      "other_details": "Robotic Surgery Center"
+    },
+    {
+      "name": "Christian Medical College",
+      "location": "Vellore",
+      "city": "Vellore",
+      "active_doctors": 40,
+      "overall_ranking": 4.6,
+      "doctor_facility_ranking": 4.5,
+      "other_details": "Medical Education Institution"
+    },
+    {
+      "name": "All India Institute of Medical Sciences",
+      "location": "Bhopal",
+      "city": "Bhopal",
+      "active_doctors": 75,
+      "overall_ranking": 4.9,
+      "doctor_facility_ranking": 4.8,
+      "other_details": "Research and Healthcare"
+    },
+    {
+      "name": "Ruby Hall Clinic",
+      "location": "Sassoon Road",
+      "city": "Pune",
+      "active_doctors": 35,
+      "overall_ranking": 4.5,
+      "doctor_facility_ranking": 4.3,
+      "other_details": "Organ Transplant Center"
+    },
+    {
+      "name": "Amrita Institute of Medical Sciences",
+      "location": "Palarivattom",
+      "city": "Kochi",
+      "active_doctors": 30,
+      "overall_ranking": 4.4,
+      "doctor_facility_ranking": 4.2,
+      "other_details": "Ayurveda and Holistic Medicine"
+    },
+    {
+      "name": "Wockhardt Hospital",
+      "location": "Mulund West",
+      "city": "Mumbai",
+      "active_doctors": 50,
+      "overall_ranking": 4.7,
+      "doctor_facility_ranking": 4.6,
+      "other_details": "Comprehensive Healthcare"
+    },
+    {
+      "name": "Artemis Hospital",
+      "location": "Sector 51",
+      "city": "Gurugram",
+      "active_doctors": 45,
+      "overall_ranking": 4.6,
+      "doctor_facility_ranking": 4.4,
+      "other_details": "Robotic Surgery and Rehabilitation"
+    },
+    {
+      "name": "Breach Candy Hospital",
+      "location": "Bhulabhai Desai Road",
+      "city": "Mumbai",
+      "active_doctors": 35,
+      "overall_ranking": 4.5,
+      "doctor_facility_ranking": 4.3,
+      "other_details": "Advanced Obstetrics and Gynecology"
+    },
+    {
+      "name": "Rajiv Gandhi Cancer Institute & Research Center",
+      "location": "Rohini",
+      "city": "New Delhi",
+      "active_doctors": 60,
+      "overall_ranking": 4.8,
+      "doctor_facility_ranking": 4.7,
+      "other_details": "Cancer Research Center"
+    }
+  ]
+}

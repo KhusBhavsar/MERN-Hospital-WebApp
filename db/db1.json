@@ -1,0 +1,100 @@
+{
+    "doctors": [
+      {
+        "id": 1,
+        "name": "Dr. Rajesh Gupta",
+        "specialty": "Cardiology",
+        "experience": "15 years",
+        "contact": {
+          "phone": "+91 9876543210",
+          "email": "rajesh.gupta@example.com"
+        },
+        "availability": "Monday: 10:00 AM - 6:00 PM, Tuesday: 10:00 AM - 6:00 PM, Wednesday: 10:00 AM - 2:00 PM, Thursday: 10:00 AM - 6:00 PM, Friday: 10:00 AM - 6:00 PM, Saturday: 10:00 AM - 2:00 PM",
+        "consultation_fee": "Rs. 1200",
+        "address": {
+          "line1": "789 Park Road",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "pincode": "400001"
+        },
+        "profile_picture": "https://imagesx.practo.com/providers/dr-rajesh-gupta-general-surgeon-delhi-70c9e17e-d412-4f0e-93e3-6473ac05128d.jpg?i_type=t_100x100-4x"
+      },
+      {
+        "id": 2,
+        "name": "Dr. Ananya Sharma",
+        "specialty": "Pediatrics",
+        "experience": "12 years",
+        "contact": {
+          "phone": "+91 8765432109",
+          "email": "ananya.sharma@example.com"
+        },
+        "availability": "Monday: 9:00 AM - 4:00 PM, Tuesday: 9:00 AM - 4:00 PM, Wednesday: 9:00 AM - 1:00 PM, Thursday: 9:00 AM - 4:00 PM, Friday: 9:00 AM - 4:00 PM, Saturday: 10:00 AM - 1:00 PM",
+        "consultation_fee": "Rs. 1000",
+        "address": {
+          "line1": "456 ABC Colony",
+          "city": "Delhi",
+          "state": "Delhi",
+          "pincode": "110001"
+        },
+        "profile_picture": "https://media.licdn.com/dms/image/C5603AQF8lfgAQTyq0A/profile-displayphoto-shrink_800_800/0/1591623097021?e=2147483647&v=beta&t=3b5sd9CyP0me-JyJAqthpRMO1ZdBz9vfsij5sufpd6U"
+      },
+      {
+        "id": 3,
+        "name": "Dr. Sanjay Patel",
+        "specialty": "Orthopedics",
+        "experience": "18 years",
+        "contact": {
+          "phone": "+91 7654321098",
+          "email": "sanjay.patel@example.com"
+        },
+        "availability": "Monday: 8:30 AM - 5:00 PM, Tuesday: 8:30 AM - 5:00 PM, Wednesday: 8:30 AM - 1:30 PM, Thursday: 8:30 AM - 5:00 PM, Friday: 8:30 AM - 5:00 PM, Saturday: 9:30 AM - 2:00 PM",
+        "consultation_fee": "Rs. 1500",
+        "address": {
+          "line1": "123 XYZ Nagar",
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "pincode": "380001"
+        },
+        "profile_picture": "https://comm.zealthy.in/uploads/doctors/dr-sanjay-patel-22239.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Dr. Niharika Reddy",
+        "specialty": "Gynecology",
+        "experience": "14 years",
+        "contact": {
+          "phone": "+91 6543210987",
+          "email": "niharika.reddy@example.com"
+        },
+        "availability": "Monday: 11:00 AM - 7:00 PM, Tuesday: 11:00 AM - 7:00 PM, Wednesday: 11:00 AM - 3:00 PM, Thursday: 11:00 AM - 7:00 PM, Friday: 11:00 AM - 7:00 PM, Saturday: 12:00 PM - 3:00 PM",
+        "consultation_fee": "Rs. 1300",
+        "address": {
+          "line1": "789 PQR Street",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "pincode": "560001"
+        },
+        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXyW8StF_kgTIVKl6O7ZRjsgJVbMXR5nPtbKiIu9I2XGfPdBTHCtdAqw86Z1Zca_Krhc&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "name": "Dr. Sameer Verma",
+        "specialty": "Dermatology",
+        "experience": "10 years",
+        "contact": {
+          "phone": "+91 5432109876",
+          "email": "sameer.verma@example.com"
+        },
+        "availability": "Monday: 9:30 AM - 5:30 PM, Tuesday: 9:30 AM - 5:30 PM, Wednesday: 9:30 AM - 1:30 PM, Thursday: 9:30 AM - 5:30 PM, Friday: 9:30 AM - 5:30 PM, Saturday: 10:30 AM - 2:30 PM",
+        "consultation_fee": "Rs. 1100",
+        "address": {
+          "line1": "456 LMN Avenue",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "pincode": "600001"
+        },
+        "profile_picture": "https://sa1s3optim.patientpop.com/460x356/assets/production/practices/6012f3b7af568b092786b49d0d0668e692934ef0/images/2043833.jpg"
+      }
+    ]
+  }
+  
