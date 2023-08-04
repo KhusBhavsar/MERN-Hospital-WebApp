@@ -1,6 +1,6 @@
 # MERN-Hospital-WebApp
 MERN Hospital WebApp
-This repository contains the code for a full-stack Hotel WebApp built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The application allows users to book appointments for listed hospitals, get details regarding well-known doctors.
+This repository contains the code for a full-stack Hospital WebApp built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The application allows users to book appointments for listed hospitals, get details regarding well-known doctors.
 
 Features
 User-friendly and responsive user interface.
